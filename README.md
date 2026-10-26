@@ -17,11 +17,11 @@ LaundryGo adalah aplikasi mobile berbasis Flutter yang dikembangkan untuk memenu
 LaundryGo memiliki beberapa fitur utama berikut:
 
 1. **Beranda** — Menampilkan informasi aplikasi, daftar layanan, dan pesanan terbaru.
-2. **Daftar Layanan** — Menampilkan pilihan layanan laundry beserta harga per kilogram.
-3. **Detail Layanan** — Memungkinkan pengguna memilih berat cucian dan melihat total harga secara otomatis.
-4. **Simulasi Pemesanan** — Memungkinkan pengguna membuat pesanan dan melihat konfirmasi pemesanan.
-5. **Daftar Pesanan** — Menampilkan informasi pesanan, berat cucian, total harga, dan status pesanan.
-6. **Status Pesanan** — Menampilkan status pesanan, seperti Diproses dan Selesai.
+3. **Daftar Layanan** — Menampilkan pilihan layanan laundry beserta harga per kilogram.
+4. **Detail Layanan** — Memungkinkan pengguna memilih berat cucian dan melihat total harga secara otomatis.
+5. **Simulasi Pemesanan** — Memungkinkan pengguna membuat pesanan dan melihat konfirmasi pemesanan.
+6. **Daftar Pesanan** — Menampilkan informasi pesanan, berat cucian, total harga, dan status pesanan.
+7. **Status Pesanan** — Menampilkan status pesanan, seperti Diproses dan Selesai.
 
 ## Pilihan Layanan
 
